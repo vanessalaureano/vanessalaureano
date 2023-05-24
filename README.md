@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 
 <h1 align="center">Vanessa Laureano</h1>
 <p align="center">Estudante de Sistemas para Intenet</p>
-
-<div>
-<a href="https://github.com/vanessalaureano">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessalaureano&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessalaureano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
